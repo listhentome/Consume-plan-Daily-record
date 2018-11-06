@@ -1,5 +1,5 @@
-# Consumption-Plan-Daily-record
-Consumption Plan-Daily record
+#Consume plan-Daily record
+
 
 A small step in accounting every day, a big step in financial freedom.
 Customize your habits to help you develop a good lifestyle.
